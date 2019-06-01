@@ -166,10 +166,10 @@ Gmid = kg.getProfile().mid
 Hmid = kh.getProfile().mid 
 Imid = sw.getProfile().mid 
 Bots = [mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid]
-admin = ["uc515d6b946a4d41a3c87218fa3803c3b"]
-staff = ["uc515d6b946a4d41a3c87218fa3803c3b"]
-owner = ["uc515d6b946a4d41a3c87218fa3803c3b"]
-adminMID = 'uc515d6b946a4d41a3c87218fa3803c3b'
+admin = ["ubfd169ab89c8ef5e591e75d9b5d957f8"]
+staff = ["ubfd169ab89c8ef5e591e75d9b5d957f8"]
+owner = ["ubfd169ab89c8ef5e591e75d9b5d957f8"]
+adminMID = 'ubfd169ab89c8ef5e591e75d9b5d957f8'
 wait ={ 
     'contact':False,
     'autoJoin':True,
